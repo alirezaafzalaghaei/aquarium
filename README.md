@@ -1,3 +1,9 @@
 # aquarium
 
-to compile use this commnd
+
+to compile file use this commnd:
+
+```
+g++ aquarium.cpp -o aquarium -lglut -lGL
+./aquarium
+```
